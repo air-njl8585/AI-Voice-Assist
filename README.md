@@ -5,13 +5,11 @@ The assistant can perform basic tasks such as telling the time, opening websites
 
 
 ## What technologies are used for this project?
-- Vite
 - Tkinter UI Components
 - Speech Recognition
 - Text-to-Speech (TTS)
 - Web Automation
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 
